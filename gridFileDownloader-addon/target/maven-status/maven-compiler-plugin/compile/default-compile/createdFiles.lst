@@ -1,0 +1,7 @@
+org\vaadin\gridfiledownloader\client\GridFileDownloaderConnector.class
+org\vaadin\gridfiledownloader\GridFileDownloader.class
+org\vaadin\gridfiledownloader\GridFileDownloader$1.class
+org\vaadin\gridfiledownloader\client\GridFileDownloaderServerRpc.class
+org\vaadin\gridfiledownloader\client\GridFileDownloaderState.class
+org\vaadin\gridfiledownloader\GridFileDownloader$GridStreamResource.class
+org\vaadin\gridfiledownloader\GridFileDownloader$2.class
